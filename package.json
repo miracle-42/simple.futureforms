@@ -12,8 +12,7 @@
   "author": "Alex Høffner",
   "license": "ISC",
   "dependencies": {
-    "forms42core1": "file:../FutureForms/dist",
-    "forms42core": "file:../../futureforms/core/dist"
+    "forms42core": "file:../FutureForms/dist"
   },
   "devDependencies": {
     "html-loader": "^4.2.0",
